@@ -86,9 +86,10 @@ Data Visualization Best Practices
 
 🖼️ Dashboard Preview
 Home View
-
+<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%201.png" width="80%">
 Overview Page
-
+<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%202.png" width="80%">
 Artist Analysis
-
+<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%203.png" width="80%">
 Song Analysis
+<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%204.png" width="80%">
