@@ -1,11 +1,11 @@
-# Spotify-music-analysis-dashboard
-🎵 Spotify Music Analytics Dashboard (Power BI)
-📌 Project Overview
+
+# 🎵 Spotify Music Analytics Dashboard (Power BI)
+## 📌 Project Overview
 
 This project is an interactive Spotify Music Analytics Dashboard built using Power BI.
 It analyzes Spotify song, artist, album, and popularity data to uncover listening trends, artist performance, and song popularity patterns through a visually rich, Spotify-inspired UI.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze distinct songs and artists
 
@@ -19,7 +19,7 @@ Identify top artists and songs by popularity
 
 Explore monthly and quarterly listening patterns
 
-📊 Key KPIs
+## 📊 Key KPIs
 
 🎶 Distinct Songs: 789
 
@@ -29,7 +29,7 @@ Explore monthly and quarterly listening patterns
 
 🔥 Average Popularity: 89.62
 
-📈 Dashboard Insights
+## 📈 Dashboard Insights
 🎧 Song & Artist Analysis
 
 Distinct Songs by Artist – Highlights top contributing artists
@@ -48,7 +48,7 @@ Average Tracks per Album
 
 Max Popularity per Album Type
 
-📅 Time-Based Analysis
+## 📅 Time-Based Analysis
 
 Distinct Songs by Year
 
@@ -58,11 +58,11 @@ Distinct Songs by Quarter
 
 Average Popularity Trend by Months
 
-🚫 Content Analysis
+## 🚫 Content Analysis
 
 Explicit vs Non-Explicit Songs comparison
 
-🎛️ Interactive Features
+## 🎛️ Interactive Features
 
 Artist Selector
 
@@ -72,7 +72,7 @@ Navigation Tabs: Home | Overview | Artists | Songs
 
 Fully dynamic visuals with cross-filtering
 
-🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 Power BI
 
@@ -84,12 +84,32 @@ Spotify-inspired UI Design
 
 Data Visualization Best Practices
 
-🖼️ Dashboard Preview
-Home View
-<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%201.png" width="80%">
-Overview Page
-<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%202.png" width="80%">
+## 🖼️ Dashboard Preview                                 
+Home View  
+
+<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%201.png" width="80%">    
+
+Overview Page   
+
+<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%202.png" width="80%">                  
+
 Artist Analysis
-<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%203.png" width="80%">
-Song Analysis
-<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%204.png" width="80%">
+
+<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%203.png" width="80%">                    
+
+Song Analysis   
+
+<img src="https://github.com/Abhishek-Bhise1606/Spotify-music-analysis-dashboard/blob/main/Spotify%20Dashboard%204.png" width="80%">                         
+
+
+## 📌 Conclusion
+
+This dashboard provides a comprehensive view of Spotify music data, helping users:
+
+Discover popularity trends
+
+Evaluate artist performance
+
+Understand listener preferences
+
+Make data-driven insights in the music domain
